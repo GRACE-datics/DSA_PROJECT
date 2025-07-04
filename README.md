@@ -84,3 +84,5 @@ For Customer Engagement:
 Address issues from negative reviews with auto-response and escalation.
 
 Reward highly engaged customers who leave frequent reviews to encourage reviews on categories with fewer reviews namely: cars and motorbike, health and personal care, home improvement, office products, musical instruments, toys and games.
+
+**Note: the file attached also contains the excel dashboard.**
