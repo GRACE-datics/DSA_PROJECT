@@ -20,3 +20,20 @@ Categorical Data- product_id, product_name, category, user_id	, user_name, revie
 Text Data-about_product, review_title, review_content, img_link, product_link
 
 Timeframe covered: 24 hours
+
+Data Cleaning & Preprocessing
+Unnecessary Data
+Data columns such as about product, review title, review content, image link, product link, user id, and  user name were considered unnecessary to achieve the project aim, hence, were hidden.
+Missing Values
+Columns with missing data: rating
+Percentage of missing values: <1%
+Handling strategy (imputation of average values-2.5)
+Text Preprocessing (for Category)
+Split column by delimiter (|) for proper categorization
+
+Data Analysis
+During analysis, some extra columns were created namely: 
+Number of Reviews-formula: =LEN([@[review_id]])-LEN(SUBSTITUTE([@[review_id]],",",""))+1
+Price Range-formula: =IF(E2<200,"<200",IF(E2<=500,"200-500",">500"))
+Pivot tables were created with pivot charts and slicers utilized where necessary
+Key Findings & Insights
