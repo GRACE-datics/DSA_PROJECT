@@ -37,3 +37,10 @@ Number of Reviews-formula: =LEN([@[review_id]])-LEN(SUBSTITUTE([@[review_id]],",
 Price Range-formula: =IF(E2<200,"<200",IF(E2<=500,"200-500",">500"))
 Pivot tables were created with pivot charts and slicers utilized where necessary
 Key Findings & Insights
+Summary of notable patterns (e.g., rating, level of discount)-no relationship
+Highest performing product category in terms of potential revenue-Electronics
+Lowest performing product category in terms of potential revenue-Toys & Games
+Products with highest rating:
+Amazon Basics Wireless Mouse | 2.4 GHz Connection, 1600 DPI | Type - C Adapter | Upto 12 Months of Battery Life | Ambidextrous Design | Suitable for PC/Mac/Laptop
+Syncwire LTG to USB Cable for Fast Charging Compatible with Phone 5/ 5C/ 5S/ 6/ 6S/ 7/8/ X/XR/XS Max/ 11/12/ 13 Series and Pad Air/Mini, Pod & Other Devices (1.1 Meter, White)
+
