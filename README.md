@@ -1,9 +1,9 @@
 # DSA_PROJECT
-#Project Overview
+**Project Overview**
 
 The objective of this data analysis project is to extract actionable insights from product and customer review data, with the overarching goal of supporting strategic decision-making across key business functions.
 
-#Dataset Description
+**Dataset Description**
 **Data Sources**
 Amazon case study.xlsx – The dataset contains 
 product details: name, category, price, discount, and ratings
