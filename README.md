@@ -5,11 +5,10 @@ The objective of this data analysis project is to extract actionable insights fr
 
 **Dataset Description**
 **Data Sources**
-Amazon case study.xlsx – The dataset contains 
+[Amazon case study.xlsx](https://docs.google.com/spreadsheets/d/15uM7Izb-ZDrlQLx_XSepPavA_B7BnF0x/edit?usp=drivesdk&ouid=101729043189002548095&rtpof=true&sd=true) 
+The dataset contains 
 product details: name, category, price, discount, and ratings
 customer engagement: user reviews, titles, and content
-
-https://docs.google.com/spreadsheets/d/15uM7Izb-ZDrlQLx_XSepPavA_B7BnF0x/edit?usp=drivesdk&ouid=101729043189002548095&rtpof=true&sd=true
 
 **Data Snapshot**
 Each row represents a unique product
@@ -24,8 +23,11 @@ Text Data-about_product, review_title, review_content, img_link, product_link
 Timeframe covered: 24 hours
 
 **Data Cleaning & Preprocessing**
+
 **Unnecessary Data**
+
 Data columns such as about product, review title, review content, image link, product link, user id, and  user name were considered unnecessary to achieve the project aim, hence, were hidden.
+
 **Missing Values**
 Columns with missing data: rating
 Percentage of missing values: <1%
