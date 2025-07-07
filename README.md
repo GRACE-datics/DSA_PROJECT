@@ -7,7 +7,7 @@ The objective of this data analysis project is to extract actionable insights fr
 
 **Data Sources**
 
-[Amazon case study.xlsx](https://eu.docworkspace.com/d/sIAuoisIy-rykwwY?sa=601.1074)
+[Amazon case study.xlsx](https://docs.google.com/spreadsheets/d/16YRYonH4AEzfB2yd27fVgFFpWbBPq5BI/edit?usp=drive_link&ouid=101729043189002548095&rtpof=true&sd=true)
 
 The dataset contains 
 product details: name, category, price, discount, and ratings
