@@ -105,7 +105,6 @@ The following columns were hidden for analysis due to irrelevance to the project
   - Office Products
   - Musical Instruments
   - Toys & Games
-
 ---
 
 ## 🧠 Author
